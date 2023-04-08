@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Fullstack Dev**
 
-- 💬 Ask me about **Javascript**
+
 
 - 📫 How to reach me **abdirashid16112@gmail.com**
 
