@@ -1,12 +1,10 @@
 <h3 align="center">A passionate software engeneering student</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [rashidcodes](https://rashidcodes.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/rashidcodes](https://dev.to/rashidcodes)
-
-- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **abdirashid16112@gmail.com**
 
